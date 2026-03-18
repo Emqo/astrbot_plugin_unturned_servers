@@ -1,5 +1,5 @@
 name: astrbot_plugin_unturned_servers
-desc: 查询 Unturned 游戏服务器状态和在线玩家信息
+desc: 查询 Unturned 游戏服务器实时状态和在线玩家信息，支持 /status 和 /players 命令
 author: Bugelll
 repo: "https://github.com/Bugelll/astrbot_plugin_unturned_servers"
 version: 0.1.0
